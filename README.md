@@ -8,7 +8,7 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <div>
-  <a href="https://github.com/ManuCoutinho">
+  <a href="https://github.com/voigtito">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=voigtito&show_icons=true&theme=merko"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voigtito&layout=compact&langs_count=8&theme=merko"/>
 </div>
