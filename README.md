@@ -17,7 +17,7 @@
   <ul>
     <li>📚 Software Engineering student;</li>
     <li>🚀 Rocketseat Student;</li>
-    <li>📋 Junior Software Developer;</li>
+    <li>📋 Software Developer;</li>
     <li>💻 Currently on Home Office.</li>
   </ul>
 </section>
