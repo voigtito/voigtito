@@ -15,7 +15,7 @@
 <br/>
 <section>
   <ul>
-    <li>📚 Software Engineering student;</li>
+    <li>📚 Software Engineer;</li>
     <li>🚀 Rocketseat Student;</li>
     <li>📋 Software Developer;</li>
     <li>💻 Currently on Home Office.</li>
