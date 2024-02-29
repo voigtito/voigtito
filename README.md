@@ -24,8 +24,8 @@
 <br/>
 <section>
   <a href="https://github.com/voigtito">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=voigtito&show_icons=true&theme=merko&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voigtito&layout=compact&langs_count=8&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=voigtito&show_icons=true&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voigtito&layout=compact&langs_count=7&theme=merko"/>
 </section>
 
 <br>
