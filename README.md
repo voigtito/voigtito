@@ -13,7 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gustavo-voigt-129406106)
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects / Personal Projects
 
 ### 🎮 Everdell Counter
 A **React Native (Expo)** application designed to help players track their scores while playing the board game "Everdell". The app is available on both major mobile platforms.
