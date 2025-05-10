@@ -9,14 +9,14 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer with a passion for building innovative applications using modern technologies. Specialized in React, React Native (Expo), TypeScript, and Node.js development.
+**Software Engineer** with a passion for building innovative applications using modern technologies. **Specialized** in React, React Native (Expo), TypeScript, and Node.js development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gustavo-voigt-129406106)
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### Everdell Counter
-A React Native (Expo) application designed to help players track their scores while playing the board game "Everdell". The app is available on both major mobile platforms.
+### 🎮 Everdell Counter
+A **React Native (Expo)** application designed to help players track their scores while playing the board game "Everdell". The app is available on both major mobile platforms.
 
 - **Technologies**: React Native (Expo), TypeScript
 - **Platforms**: iOS & Android
@@ -24,15 +24,15 @@ A React Native (Expo) application designed to help players track their scores wh
   - [App Store](https://apps.apple.com/br/app/everdell-score/id6740638555)
   - [Play Store](https://play.google.com/store/apps/details?id=com.voigtitos.everdellcounter)
 
-### Bad Grandma (Series.et Hackathon)
-An AI-powered narrative game where players must identify the murderer by interacting with different grandmothers through conversation.
+### 🕵️‍♂️ Bad Grandma (Series.et Hackathon)
+An **AI-powered narrative game** where players must identify the murderer by interacting with different grandmothers through conversation.
 
 - **Technologies**: 
-  - Frontend: React, TypeScript
-  - Backend: Node.js, Express
-  - Database: PostgreSQL, Prisma
-  - AI: Anthropic
-  - Additional: Text-to-Speech (OpenAI)
+  - **Frontend**: React, TypeScript
+  - **Backend**: Node.js, Express
+  - **Database**: PostgreSQL, Prisma
+  - **AI**: Anthropic
+  - **Additional**: Text-to-Speech (OpenAI)
 - **Project Type**: Hackathon Project
 - **Status**: In development (URL to be provided)
 
