@@ -24,18 +24,6 @@ A **React Native (Expo)** application designed to help players track their score
   - [App Store](https://apps.apple.com/br/app/everdell-score/id6740638555)
   - [Play Store](https://play.google.com/store/apps/details?id=com.voigtitos.everdellcounter)
 
-### 🕵️‍♂️ Bad Grandma (Series.et Hackathon)
-An **AI-powered narrative game** where players must identify the murderer by interacting with different grandmothers through conversation.
-
-- **Technologies**: 
-  - **Frontend**: React, TypeScript
-  - **Backend**: Node.js, Express
-  - **Database**: PostgreSQL, Prisma
-  - **AI**: Anthropic
-  - **Additional**: Text-to-Speech (OpenAI)
-- **Project Type**: Hackathon Project
-- **Status**: In development (URL to be provided)
-
 ## 🛠️ Tech Stack
 
 - **Frontend**: React, React Native (Expo), TypeScript
